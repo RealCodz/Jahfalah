@@ -8,17 +8,15 @@
   <p><code>oo.22</code></p>
   
 
+##  Installation
 
+ Download the executable file (`Group#342.exe`)
+ Ensure you have Discord bot administrator permissions
+ Run the application with administrator privileges
+ Enter your Discord bot token and server ID
+ Select from available management operations
 
-## 📦 Installation
-
-1. Download the executable file (`Group#342.exe`)
-2. Ensure you have Discord bot administrator permissions
-3. Run the application with administrator privileges
-4. Enter your Discord bot token and server ID
-5. Select from available management operations
-
-## 🚀 Usage
+##  Usage
 
 ```bash
  Start the application
@@ -29,22 +27,21 @@ run app  - Group#342.exe
  3. Select operation type
 ```
 
-## ⚠️ Requirements
+## ⚠ Requirements
 
-- **Discord Bot Token**: Valid bot token with administrator permissions
-- **Server Access**: Bot must be present in target Discord server
-- **Permissions**: Administrator role required for full functionality
-- **Operating System**: Windows 10/11 (64-bit recommended)
+ **Discord Bot Token**: Valid bot token with administrator permissions
+ **Server Access**: Bot must be present in target Discord server
+ **Permissions**: Administrator role required for full functionality
+ **Operating System**: Windows 10/11 (64-bit recommended)
 
-## 🔒 Legal 
+##  Legal 
 
 This software is proprietary and confidential. Unauthorized copying, distribution, modification, public display, or public performance of this software is strictly prohibited.
 
-### Terms of Use
-- Intended for legitimate Discord server administration
-- Users must comply with Discord's Terms of Service
-- Commercial use requires explicit written permission
-- Developers are not liable for misuse or damage
+ Intended for legitimate Discord server administration
+ Users must comply with Discord's Terms of Service
+ Commercial use requires explicit written permission
+ Developers are not liable for misuse or damage
 
 ## 📋 Version History
 
