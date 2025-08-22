@@ -18,14 +18,14 @@
 
 ##  Usage
 
-```bash
+
  Start the application
 run app  - Group#342.exe
  Follow the interactive prompts:
  1. Enter Bot Token
  2. Enter Server ID
  3. Select operation type
-```
+
 
 ## ⚠ Requirements
 
